@@ -1,0 +1,4 @@
+﻿  rle2.cpp
+C:\Users\asus\Desktop\CPH(Stel)\rle2\rle2\rle2.cpp(8,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asus\Desktop\CPH(Stel)\rle2\rle2\rle2.cpp(49,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  rle2.vcxproj -> C:\Users\asus\Desktop\CPH(Stel)\rle2\x64\Debug\rle2.exe
